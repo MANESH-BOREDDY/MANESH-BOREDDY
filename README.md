@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MANESH-BOREDDY
+- 👀 I’m interested in devsecops and securing our world in digital aswell as universal
+- 🌱 I’m currently researching to handle large projects chalenges with simple procedures
+- 💞️ I’m looking to collaborate on with who are saving nature with technology
+- 📫 How to reach me by the nature by defaultly
