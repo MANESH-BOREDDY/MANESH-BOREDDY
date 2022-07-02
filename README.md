@@ -1,5 +1,13 @@
 - 👋 Hi, I’m @MANESH-BOREDDY
-- 👀 I’m interested in devsecops and securing our world in digital aswell as universal
-- 🌱 I’m currently researching to handle large projects chalenges with simple procedures
-- 💞️ I’m looking to collaborate on with who are saving nature with technology
-- 📫 How to reach me by the nature by defaultly
+- 👀 I’m Intrested in devsecops,Application security,Container security,CiCd Security,Network Security,SAST,DAST,SCA,Pentesting,Forencis Security and securing our world      in digital aswell as universal
+- 👍 Expert in Devops Application Deployement,Application Migration,Application Configuring,Application Development and Application Monitoring
+- é  Expert in multi cloud technologies in different modules from one cloud to cloud,on premises to cloud,Serverless computing ,region to region transfer
+- 🌱 I’m currently researching to handle large projects chalenges By enabling simple procedures within short period of time in Banking,security,retail marketing etc.
+- 👌 Expert Cloud,Cloud Testing,Cloud security,Cloud services Iam,Ec2,Vpc,Security Group,S3 bucket,Cloud                                                                       Watch,Route53,kniesses,CDN,DynamoDb,Autoscaling,SNS,SQS,lamda,terraform,cloudformation
+- 💞️ I’m looking to collaborate the latest technology on with who are saving nature with technology changing lives by changing technology
+- 🙌 1G,2G,3G,4G,5G(RAN,CORE),3GPP,UMTS,GSM,LTE,VOLTE, QoS, UICC/eUICC, LBS, e911.Experience in 4G LTE, 5G SA/NSA, IMS, SIP signaling, VoIP/VoLTE, PTT, IPv4v6,               TCP/IP,5G edge deplyements. 
+- 🙈 Securing the world through Network security,application security,end point security,,pentesting,vunerability scanning,monitoring,detection &prevention.SIEM , SOC ,        splunk , logrhythm,kali Linux,alto paul networks,cyberark.
+- 🙉 DEVSECOPS: Sonerqube sonar cloud,threat modeler,aqua security,checkmarx,sast,dast,sca,Amazon Inspector,aws shield,aws wap,aws secret manager,Cloud Watch, IAM,            Guarduty, AWS config, cloud trail, Nessus, Nmap, Wireshark, Nmap, Kali Linux.Aircrack,Metasploit,cspm,sase,casb
+- 🐵 Cloud testing,Automation Testing,Network Testing,Devops,Devops Testing,Pentesting,Webtesting,Protocall Testing ,Telecom Testing Etc
+- 📫 How to reach me by the nature by defaultly /linkedin.com/in/manesh-boreddy-18678017b///9603299473///maneshdevsecops@gmail.com
+   Iam the one who have plenty of Infinite  opportunities within myself By the nature Iam ready to grab to open to work anything which will make me a strong and desired     way with which revoltionary choices to journey along the the worls to meet the all the lives and talk with it and expore the the darkness of beauty 
